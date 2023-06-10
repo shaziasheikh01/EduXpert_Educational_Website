@@ -1,0 +1,41 @@
+EduXpert is a responsive multipage page educational School website.
+
+Technology Used - HTML5, CSS3, ES6 JavaScript.
+
+This website have a Home Page, About Page, Courses Page with a Fully Functioning Contact Form.
+
+topics -
+a - Css Variables
+b - CSS Grid and Flexbox
+c - BEM(Block Element Modifier)
+d - CSS Units For Responsive Design(vh, vw, rem, fr, %)
+e - Form submission with spam protection (no backend language).
+f - CSS transition and animation
+g - CSS media queries.
+
+Features - 
+
+a - responsive navbar with an animated menu toggle.
+b - responsive categories section.
+c - responsive courses section.
+d - responsive frequently asked questions section.
+e - responsive testimonials section (testimonials slides).
+f - responsive footer section.
+g - responsive achievements section.
+h - responsive team section.
+i - responsive contact form.
+
+
+
+for icons  = https://iconscout.com/unicons/getting-started/line (iconscout)
+copy iconsoutcdn and paste in head tag
+
+for fons - googlefonts.com 
+copy link an paste in head tag
+
+for touch slider - swiperjs.com
+copy swiperjs  cdn both css link and  js script for testimonial swipe paste in to our project in idex.html
+
+for form submission (API) - formspree.io
+copy action link and set method post.
+for spam protection go to setting and enable recaptcha.
