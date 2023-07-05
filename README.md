@@ -28,7 +28,7 @@ https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/
 
 * **About Page**
   
-https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/c4de592c-dd17-4d05-944e-c5ec92cb3397
+https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/34367327-cb2a-4c25-b61d-e2ee4d1486ec
 
 * **Courses Page**
   
