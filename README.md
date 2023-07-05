@@ -24,6 +24,7 @@ This website has a Home Page, an about page,  a course page, and a fully functio
 # Demonstration
 * **Home Page**
 
+https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/f4f3f452-f046-4f93-8b18-afb4af209898
 
 * **About Page**
   
