@@ -2,15 +2,15 @@
   
 # EduXpert_Educational_Website
 
-# About
-EduXpert is a responsive multipage educational School website.
-This website has a Home Page, an about page,  a course page, and a fully functioning contact form.
+## About
+EduXpert is a responsive, multipage educational School website.
+This website has a Home Page, an about page, a course page, and a fully functioning contact form.
 
 <a href ="https://shaziasheikh01.github.io/EduXpert_Educational_Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-# Features 
+## Features 
 * responsive navbar with an animated menu toggle.
 * responsive categories section.
 * responsive courses section.
@@ -21,7 +21,7 @@ This website has a Home Page, an about page,  a course page, and a fully functio
 * responsive team section.
 * responsive contact form.
 
-# Demonstration
+## Demonstration
 * **Home Page**
 
 https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/f4f3f452-f046-4f93-8b18-afb4af209898
@@ -38,9 +38,12 @@ https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/
 
 ![EduXpert_project_Scrnshot1](https://github.com/shaziasheikh01/EduXpert_Educational_Website/assets/125430575/da37f29d-cf0a-4716-93e4-5ca126a3783e)
 
-# Technology Used
+## Technology Used
 * HTML5
 * CSS3
 * JavaScript
 * ES6
+  
+## Contact 
+Feel free to reach out to me at sheikhshazia1999@gmail.com for any questions or collaboration opportunities.
 
