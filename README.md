@@ -12,11 +12,11 @@ This website have a Home Page, About Page, Courses Page with a Fully Functioning
 
 # Features 
 * responsive navbar with an animated menu toggle.
-* responsive categories section.**
-* responsive courses section.**
+* responsive categories section.
+* responsive courses section.
 * responsive frequently asked questions section.
 * responsive testimonials section (testimonials slides).
-* responsive footer section.**
+* responsive footer section.
 * responsive achievements section.
 * responsive team section.
 * responsive contact form.
